@@ -65,10 +65,10 @@
         <version>1.7.0</version>  
         <configuration>
           <schemaVersion>V2</schemaVersion>
-          <resourceGroup>lab-springboot-1626927787123-rg</resourceGroup>
-          <appName>lab-springboot-1626927787123</appName>
-          <pricingTier>B1</pricingTier>
-          <region>westeurope</region>
+          <resourceGroup>teleatlantico-cliente</resourceGroup>
+          <appName>teletlantico-client</appName>
+          <pricingTier>F1</pricingTier>
+          <region>eastus</region>
           <runtime>
             <os>linux</os>
             <javaVersion>jre8</javaVersion>
